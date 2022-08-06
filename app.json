@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
+  "name": "𝚉𝙸𝚁𝚆𝙾𝚇",
+  "description": "𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃 - 𝘔𝘋 | By: 𝚉𝙸𝚁𝚆𝙾𝚇-𝙱𝙾𝚃ᵀᴹ | 𝐌𝐑: GIMHAN RASHMITHA",
   "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+  "logo": "https://i.ibb.co/gRLf3jx/cheemspic-jpg.webp",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
